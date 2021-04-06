@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472938518249",
+    "project_id": "profile-card-516dc",
+    "storage_bucket": "profile-card-516dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472938518249:android:8eaef6a93aabc57b4ac278",
+        "android_client_info": {
+          "package_name": "co.bhaskar.profile_card"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472938518249-tl3oabpd317700u962520qc28d5hnaga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLAGjttytXWndCCprGrlMlMl4d5S6hEOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472938518249-tl3oabpd317700u962520qc28d5hnaga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
